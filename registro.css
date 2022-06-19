@@ -1,0 +1,106 @@
+*{
+    background: #E0E3FF;
+}
+.home{
+    position: relative;
+    width:400px;
+    height: 500px;
+    border: 2px solid #6066FF;
+    border-radius: 20px;
+    background: #121212;
+    left: 540px; 
+    top: 120px;   
+}
+.home .registro{
+    width: 100px;
+    position: relative;
+    padding: 15px;
+    background: black;
+    margin: 6px;
+    left: 130px;
+    top: 10px;
+    font-size: 35px;
+    color: white;
+}
+.link2{
+    background-color: black;
+}
+.b1{
+    width: 360px;
+    height: 42px;
+    left: 10px;
+    position: relative;
+    margin: 3px;
+    top: 16px;
+    font-size: 20px;
+    background-color: black;
+    border: 3px solid #6066FF; 
+    border-radius: 10px;
+    color: white;
+}
+.b2{
+    width: 360px;
+    height: 42px;
+    left: 10px;
+    position: relative;
+    margin: 3px;
+    top: 20px;
+    font-size: 20px;
+    background-color: black;
+    border: 3px solid #6066FF; 
+    border-radius: 10px;
+    color: white;
+}
+.b3{
+    width: 360px;
+    height: 42px;
+    left: 10px;
+    position: relative;
+    margin: 3px;
+    top: 25px;
+    font-size: 20px;
+    background-color: black;
+    border: 3px solid #6066FF; 
+    border-radius: 10px;
+    color: white;
+}
+.b4{
+    width: 360px;
+    height: 42px;
+    left: 10px;
+    position: relative;
+    margin: 3px;
+    top: 29px;
+    font-size: 20px;
+    background-color: black;
+    border: 3px solid #6066FF; 
+    border-radius: 10px;
+    color: white;
+}
+.b5{
+    width: 360px;
+    height: 42px;
+    left: 10px;
+    position: relative;
+    margin: 3px;
+    top: 31px;
+    font-size: 20px;
+    background-color: black;
+    border: 3px solid #6066FF; 
+    border-radius: 10px;
+    color: white;
+}
+.b6{
+    position: relative;
+    width: 200px;
+    height: 40px;
+    left: 99px;
+    top: 40px;
+    margin: 5px;
+    background: #9CA6FF;
+    border: 3px solid #8B54FF; 
+    border-radius: 20px;
+    color: white;
+
+}
+
